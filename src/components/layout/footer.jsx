@@ -18,7 +18,7 @@ export function Footer() {
         
         <div className="border-t pt-6">
           <div className="flex flex-col items-center gap-2 text-center">
-            <p className="text-sm text-muted-foreground">Created with ❤️ by Sanskar Dubey</p>
+            <p className="text-sm text-muted-foreground">Created with ❤️ by Krishna</p>
             <div className="flex gap-4">
               <a href="https://github.com/johnsmith" target="_blank" rel="noopener noreferrer" 
                 className="text-muted-foreground hover:text-primary">
